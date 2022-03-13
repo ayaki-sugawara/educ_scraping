@@ -1,0 +1,33 @@
+name: educ
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - beautifulsoup4=4.10.0=pyh06a4308_0
+  - brotlipy=0.7.0=py39h1a28f6b_1002
+  - bs4=4.10.0=hd3eb1b0_0
+  - ca-certificates=2022.2.1=hca03da5_0
+  - certifi=2021.10.8=py39hca03da5_2
+  - cffi=1.15.0=py39h22df2f2_1
+  - cryptography=36.0.0=py39h834c97f_0
+  - idna=3.3=pyhd3eb1b0_0
+  - libcxx=12.0.0=hf6beb65_1
+  - libffi=3.3=hc377ac9_2
+  - ncurses=6.3=h1a28f6b_2
+  - openssl=1.1.1m=h1a28f6b_0
+  - pip=21.2.4=py39hca03da5_0
+  - pycparser=2.21=pyhd3eb1b0_0
+  - pyopenssl=22.0.0=pyhd3eb1b0_0
+  - pysocks=1.7.1=py39hca03da5_0
+  - python=3.9.0=h4b4120c_5_cpython
+  - readline=8.1.2=h1a28f6b_1
+  - selenium=3.141.0=py39h1a28f6b_1000
+  - setuptools=58.0.4=py39hca03da5_1
+  - soupsieve=2.3.1=pyhd3eb1b0_0
+  - sqlite=3.38.0=h1058600_0
+  - tk=8.6.11=hb8d0fd4_0
+  - tzdata=2021e=hda174b7_0
+  - urllib3=1.26.8=pyhd3eb1b0_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1a28f6b_0
+  - zlib=1.2.11=h5a0b063_4
